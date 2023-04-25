@@ -1,0 +1,14 @@
+province_event = {
+	id = decolonize
+	title = "EVTNAMEDC"
+	desc = "EVTDESCDC"
+	picture = TRADEGOODS_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTADC"
+		decolonize = THIS
+
+	}
+}
